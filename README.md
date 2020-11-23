@@ -1,5 +1,5 @@
-# m3umaracaysat
-lista m3u
+#EXTM3U
+
 #EXTINF:-1,A3CINE PlayTV(ESP)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-360.m3u8
 
